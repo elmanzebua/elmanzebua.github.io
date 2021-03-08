@@ -1,0 +1,12 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #e2edff;
+}
+#projects {
+  background-color: #e2edff;
+}
+
+/* agar judulnya tidak tersembunyi dibalik navbar, karna navbar fixed-top ketika diklik menu nya */
+section {
+  padding-top: 5rem;
+}
